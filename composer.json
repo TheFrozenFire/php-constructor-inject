@@ -1,0 +1,11 @@
+{
+    "name": "thefrozenfire/constructor-inject",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": [
+            "src/functions/constructor_inject.php"
+        ]
+    }
+}
